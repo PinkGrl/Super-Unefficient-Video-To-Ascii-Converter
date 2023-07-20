@@ -25,7 +25,7 @@ Okay, if ur still convinced that this is worth your time, here's how to use ever
 - This is the file used to turn **locally** stored video into **black and white** ASCII video. Type: ``./extract_frames\(4.2\).sh sample.mp4`` to run the file with your desired `mp4` video   
 
 2. extract_frames(4.2.5)
-- This is the file used to turn **locally** stored video into **coloured** ASCII video. Type: ``/extract_frames\(4.2\).sh sample.mp4 `` to run the file with your desired `mp4` video
+- This is the file used to turn **locally** stored video into **coloured** ASCII video. Type: ``/extract_frames\(4.2.5\).sh sample.mp4 `` to run the file with your desired `mp4` video
 
 3. extract_frames(4.3)
 - Now _this_ is where it gets interesting!
